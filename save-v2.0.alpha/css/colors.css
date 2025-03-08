@@ -1,0 +1,16 @@
+:root {
+    --background-color: #0a0a0a;
+    --secondary-background-color: #121212;
+    --border-color: #222222;
+    --shadow-color: rgba(255, 255, 255, 0.1); 
+    --chat-color: rgb(61, 61, 61); 
+    --chat-hover-color: rgb(43, 43, 43);
+    --text-color: #e0e0e0;
+    --text-secondary-color: #aaaaaa;
+    --text-light: #ffffff;
+    --error-color: #ff3b30; 
+    --user-message-color: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    --ai-message-color: #636363;
+    --cloudneck-message-background: #553300;
+    --cloudneck-border-color: #ff9800;
+}

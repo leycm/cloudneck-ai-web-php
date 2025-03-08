@@ -1,0 +1,16 @@
+{
+    "info": {
+        "name": "Willkommen!",
+        "lastuse": "15:46\/12.02.2025",
+        "create": "15:46\/12.02.2025",
+        "model": "cloudneck-g1"
+    },
+    "chat": {
+        "1": {
+            "sender": "ai",
+            "time": "15:46\/12.02.2025",
+            "message": "Willkommen bei CloudNeck! Wie kann ich dir helfen?",
+            "respons_time": 0
+        }
+    }
+}

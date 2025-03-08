@@ -1,0 +1,30 @@
+{
+    "054-000": {
+        "name": "admin",
+        "code": "1234",
+        "perm": 5,
+        "credits": -1,
+        "chats": -1
+    },
+    "350-156": {
+        "name": "gast",
+        "code": "3456",
+        "perm": 2,
+        "credits": 15,
+        "chats": 20
+    },
+    "67ae46035d07a": {
+        "name": "maxx",
+        "password": "$2y$10$.F\/0rCpiTteefSZEYFSIteV\/35CYWezegoOYHHkKUoo4FGPXJmz0y",
+        "perm": 1,
+        "credits": 9,
+        "chats": 10
+    },
+    "67af3beba4311": {
+        "name": "emil",
+        "password": "$2y$10$jNV2H.zl4IoSwEsDmrghfOZfJbF\/D5VzNSibcdArZhyOg20MuCudq",
+        "perm": 1,
+        "credits": 100,
+        "chats": 2
+    }
+}

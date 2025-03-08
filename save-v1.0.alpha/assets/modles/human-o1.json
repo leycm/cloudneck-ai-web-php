@@ -1,0 +1,8 @@
+{
+    "name":"Human",
+    "version":" o1-gym",
+    "credit_use":"0", // Free use !
+    "ai_format:":"%header%'%message%'%footer%",
+    "header":"Beantworte den teil in den '' möglichst menchlich mit einfachen worten wie ein Schüler in der 9tn Klasse Gymnasium",
+    "footer":""
+}

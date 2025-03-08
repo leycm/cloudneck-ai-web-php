@@ -1,0 +1,102 @@
+{
+    "info": {
+        "name": "hallo...",
+        "lastuse": "09:19 14.02.2025",
+        "create": "09:17\/14.02.2025",
+        "model": "human-o1"
+    },
+    "chat": {
+        "1": {
+            "sender": "user",
+            "time": "09:17 14.02.2025",
+            "message": "hakk"
+        },
+        "2": {
+            "sender": "cloudneck",
+            "time": "09:17 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "3": {
+            "sender": "user",
+            "time": "09:17 14.02.2025",
+            "message": "hallo"
+        },
+        "4": {
+            "sender": "cloudneck",
+            "time": "09:17 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "5": {
+            "sender": "user",
+            "time": "09:17 14.02.2025",
+            "message": "hallo"
+        },
+        "6": {
+            "sender": "cloudneck",
+            "time": "09:17 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "7": {
+            "sender": "user",
+            "time": "09:17 14.02.2025",
+            "message": "hallo"
+        },
+        "8": {
+            "sender": "cloudneck",
+            "time": "09:17 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "9": {
+            "sender": "user",
+            "time": "09:18 14.02.2025",
+            "message": "hallo"
+        },
+        "10": {
+            "sender": "cloudneck",
+            "time": "09:18 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "11": {
+            "sender": "user",
+            "time": "09:19 14.02.2025",
+            "message": "hallo"
+        },
+        "12": {
+            "sender": "cloudneck",
+            "time": "09:19 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "13": {
+            "sender": "user",
+            "time": "09:19 14.02.2025",
+            "message": "hallo"
+        },
+        "14": {
+            "sender": "cloudneck",
+            "time": "09:19 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "15": {
+            "sender": "user",
+            "time": "09:20 14.02.2025",
+            "message": "hallo"
+        },
+        "16": {
+            "sender": "user",
+            "time": "09:20 14.02.2025",
+            "message": "hallo"
+        },
+        "17": {
+            "sender": "user",
+            "time": "09:20 14.02.2025",
+            "message": "hallo"
+        }
+    }
+}

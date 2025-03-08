@@ -1,0 +1,156 @@
+@import url("colors.css");
+
+.chat-messages { 
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 20px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 20px;
+    color: var(--text-color);
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+    background: linear-gradient(135deg, rgba(2, 2, 2, 0.9), rgba(5, 5, 5, 0.95));
+}
+
+.message { 
+    background: linear-gradient(135deg, rgba(2, 2, 2, 0.9), rgba(5, 5, 5, 0.95));
+    margin: 12px 0;
+    padding: 15px;
+    border-radius: 10px;
+    background: var(--secondary-background-color);
+    color: var(--text-color);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    float: right;
+}
+
+.message:hover {
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.5);
+}
+
+.chat-item { 
+    padding: 12px;
+    margin: 12px 0px;
+    cursor: pointer;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: var(--text-secondary-color);
+}
+
+.chat-item:hover { 
+    box-shadow: 0px 5px 15px var(--shadow-color);
+}
+
+.chat-item.active { 
+    background: var(--border-color);
+    color: var(--text-light);
+    font-weight: bold;
+}
+
+.ai-message { 
+    background-color: rgba(0, 0, 0, 0);
+    color: var(--text-light);
+    margin-right: 0px;
+    border-left: 4px solid var(--text-secondary-color);
+    border-radius: 0px;
+    width: 95%;
+}
+
+.ai-message:hover {
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0);
+}
+
+.ai-message::before {
+    content: "CloudNeck AI";
+    display: block;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--text-light);
+    margin-bottom: 5px;
+}
+
+.user-message { 
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: var(--text-light);
+    margin-left: auto;
+    max-width: 400px;
+}
+
+.user-message:hover {
+    box-shadow: 0px 0px 15px rgba(240, 240, 240, 0.1);
+}
+
+.cloudneck-message { 
+    background: linear-gradient(135deg,#1f1300 0%,rgba(255, 255, 255, 0) 50%);
+    border-left: 4px solid var(--cloudneck-border-color);
+    color: var(--text-secondary-color);
+    font-style: italic;
+    border-radius: 0px;
+    width: 95%;
+}
+
+.cloudneck-message::before {
+    content: "CloudNeck Service";
+    display: block;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: var(--cloudneck-border-color);
+    margin-bottom: 5px;
+    font-style: normal;
+}
+
+.message-time, .response-time {
+    font-size: 0.8em;
+    color: var(--text-secondary-color);
+    margin-top: 0px;
+    display: block;
+    text-align: right;
+    opacity: 0.7;
+}
+
+.ai-message.message-time, .ai-message.response-time {
+    font-size: 0.8em;
+    color: var(--text-secondary-color);
+    margin-top: 0px;
+    display: inline;
+    text-align: left;
+    opacity: 0.7;
+}
+
+.message-content {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.message-content pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+.message-content code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.user-message .message-content {
+    margin: 0px;
+    height: min-content;
+}
+
+.user-message .message-time {
+    margin: 0px;
+    height: 0px;
+    position: relative;
+    bottom: 15px;
+    text-align: right;
+}
+
+.user-message p {
+    margin: 0px;
+}
+
+.cloudneck-message p {
+    width: 80%;
+}

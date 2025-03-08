@@ -1,0 +1,194 @@
+@import url("colors.css");
+.admin-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.user-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.user-table th, .user-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.user-table th {
+    background: #f5f5f5;
+    font-weight: bold;
+}
+
+.user-table tr:hover {
+    background: #f9f9f9;
+}
+
+.action-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 2px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    width: 500px;
+    margin-bottom: 5px;
+}
+
+.form-group input, .form-group select {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.form-group select {
+    width: 90%;
+    padding: 8px;
+    border-radius: 4px;
+}
+.inline-form {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 15px;
+    background: linear-gradient(135deg, rgba(2, 2, 2, 0.9), rgba(5, 5, 5, 0.95));
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+.inline-form input, .inline-form select {
+    padding: 8px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+.inline-form input {
+    width: 150px;
+}
+
+.inline-form select {
+    width: 120px;
+}
+
+.inline-form label {
+    color: var(--text-secondary-color);
+    margin-right: 5px;
+}
+
+.inline-form button {
+    color: white;
+}
+.user-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: linear-gradient(135deg, rgba(2, 2, 2, 0.9), rgba(5, 5, 5, 0.95));
+    border: 1px solid var(--border-color);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.user-table tbody {
+    border-radius: 12px;
+}
+
+.user-table th, .user-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-primary-color);
+}
+
+.user-table th {
+    background: #1a1a1a;
+    color: var(--text-secondary-color);
+    font-weight: 500;
+}
+
+.user-table tr:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.user-table tr:last-child td {
+    border-bottom: none;
+}
+
+.user-table input, .user-table select {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    color: white;
+    padding: 5px 10px;
+}
+
+.user-table input:focus, .user-table select:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
+
+.user-table button {
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: var(--text-secondary-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.user-table button:hover {
+    background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+    border-color: var(--accent-color);
+}
+
+.action-button {
+    padding: 8px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 2px;
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: var(--text-secondary-color);
+    transition: all 0.3s ease;
+}
+
+.action-button:hover {
+    background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+    border-color: var(--accent-color);
+}
+
+.edit-button { 
+    background: linear-gradient(135deg, #1a472a, #2a573a);
+}
+
+.edit-button:hover {
+    background: linear-gradient(135deg, #2a573a, #3a674a);
+}
+
+.login-button { 
+    background: linear-gradient(135deg, #1a237e, #283593);
+}
+
+.login-button:hover {
+    background: linear-gradient(135deg, #283593, #3849aa);
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "name": "ja",
+        "lastuse": "18:24\/14.02.2025",
+        "create": "18:24\/14.02.2025",
+        "model": "default"
+    },
+    "chat": {
+        "1": {
+            "sender": "user",
+            "time": "18:24 14.02.2025",
+            "message": "ja"
+        },
+        "2": {
+            "sender": "cloudneck",
+            "time": "18:24 14.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "info": {
+        "name": "hallo+...",
+        "lastuse": "18:28\/14.02.2025",
+        "create": "16:04\/12.02.2025",
+        "model": "human-o1"
+    },
+    "chat": {
+        "1": {
+            "sender": "user",
+            "time": "16:04\/12.02.2025",
+            "message": "Hallo ich bin Cool"
+        },
+        "2": {
+            "sender": "ai",
+            "time": "16:59\/12.02.2025",
+            "message": "Willkommen bei CloudNeck! Wie kann ich dir helfen?",
+            "respons_time": 465
+        },
+        "3": {
+            "sender": "user",
+            "time": "16:04\/12.02.2025",
+            "message": "also ich will eine ki bauen die soll was mit giraffe zutuhen haben (logo) aber ich braucheeinen namen "
+        },
+        "4": {
+            "sender": "ai",
+            "time": "16:59\/12.02.2025",
+            "message": "Hier sind ein paar kreative Namen f\u00fcr deine KI mit Bezug zur Giraffe:  \n1. **GiraffAI** \u2013 Einfach und direkt, eine Kombination aus 'Giraffe' und 'AI'.  \n2. **TallMind** \u2013 Weil Giraffen gro\u00df sind und deine KI eine gro\u00dfe Denkweise hat.  \n3. **NeckNet** \u2013 Ein Wortspiel mit 'Neck' (Hals) und 'Net' (Netzwerk, z. B. neuronales Netz).  \n4. **Giraffinity** \u2013 Mischung aus 'Giraffe' und 'Affinity' (Zugeh\u00f6rigkeit).  \n5. **AIraff** \u2013 Wortspiel aus 'AI' und 'Giraffe'.",
+            "respons_time": 64
+        },
+        "5": {
+            "sender": "user",
+            "time": "16:04\/12.02.2025",
+            "message": "Hallo AI ? bist du dumm"
+        },
+        "6": {
+            "sender": "cloudneck",
+            "time": "16:04\/12.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht \"hallo\". Leider ist der AI-Server aktuell nicht erreichbar. Dies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "7": {
+            "sender": "user",
+            "time": "18:20\/12.02.2025",
+            "message": "Hallo\nhallo"
+        },
+        "8": {
+            "sender": "cloudneck",
+            "time": "18:20\/12.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht \"Hallo\nhallo\". Leider ist der AI-Server aktuell nicht erreichbar. Dies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "9": {
+            "sender": "user",
+            "time": "20:24\/12.02.2025",
+            "message": "hallo"
+        },
+        "10": {
+            "sender": "cloudneck",
+            "time": "20:24\/12.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht \"hallo\". Leider ist der AI-Server aktuell nicht erreichbar. Dies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "11": {
+            "sender": "user",
+            "username": null,
+            "perm_color": "gold",
+            "time": "20:35\/12.02.2025",
+            "message": "hallo+"
+        },
+        "12": {
+            "sender": "cloudneck",
+            "username": "CloudNeck AI",
+            "perm_color": "gray",
+            "time": "20:35\/12.02.2025",
+            "message": "[AI noch nicht verf\u00fcgbar] Ich verstehe deine Nachricht \"hallo+\". Leider ist der AI-Server aktuell nicht erreichbar. Dies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        },
+        "13": {
+            "sender": "user",
+            "time": "18:28 14.02.2025",
+            "message": "hallo"
+        },
+        "14": {
+            "sender": "cloudneck",
+            "time": "18:28 14.02.2025",
+            "message": "[AI nicht verf\u00fcgbar] Ich verstehe deine Nachricht.\nLeider ist der AI-Server aktuell nicht erreichbar.\nDies ist eine tempor\u00e4re Antwort von CloudNeck.",
+            "respons_time": 100
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{   
+    "info":{
+        "name":"Hallo wie ", // erste 10 zeichen einer naricht
+        "lastuse":"15:18/12.02.2025",
+        "create":"12:34/12.02.2025"
+    },
+    "chat":{
+        "1":{
+            "sender":"user",
+            "time":"15:18/12.02.2025",
+            "message":"Hallo wie geht es dir ?",
+            "message_for_ai":"'Hallo wie geht es dir ?'" //Mit header und footer des models (message die die ai bekommt)
+        },
+        "2":{
+            "sender":"ai",
+            "time":"15:18/12.02.2025",
+            "message":"Hallo wie geht es dir ?",
+            "respons_time":"567" //In ms only by ai
+        }
+
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AAA-000":{
+        "name":"admin",
+        "code":"1234",
+        "perm": 5,
+        "credits": -1
+    },
+    "BFR-156":{
+        "name":"gast",
+        "code":"3456",
+        "perm": 0,
+        "credits": 10
+    }
+}

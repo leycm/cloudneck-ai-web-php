@@ -1,0 +1,8 @@
+{
+    "name":"CloudNeck",
+    "version":" g1-mini",
+    "credit_use":"0", // Free use !
+    "ai_format:":"%header%'%message%'%footer%",
+    "header":"",
+    "footer":""
+}
